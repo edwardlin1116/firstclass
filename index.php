@@ -1,6 +1,8 @@
 <?php
 
 echo "Hello World";
-$_POST
+$aa;
+$bb;
+$cc;
 
 ?>

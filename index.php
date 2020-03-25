@@ -51,7 +51,7 @@
     $d=$a + $b;
     echo "<hr>";
     echo $c;
-    echo "<hr>";
+    
     echo $d;
     echo "<hr>";
 
